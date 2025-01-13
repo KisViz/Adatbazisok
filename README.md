@@ -2,9 +2,11 @@
 Databases
 
 Ez a repository tartalmazza 2024/2025/1-es félévi adatbázisprojektem.
+
 Az alkalmazás PHP nyelven (PHP 5.6) lett megvalósítva, a grafikus interfész HTML-lel (HTML 5) és CSS-sel. Az adatbázishoz MariaDB-t használtam, a MySQL szerverhez való kapcsolódáshoz MySQLi-t és PDO-t is használtam.
 
 A feladatkiírás a következő volt:
+
 IMDB
 
 Specifikáció:
